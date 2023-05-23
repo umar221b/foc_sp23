@@ -1,3 +1,11 @@
+/*
+    A library that is used to draw Grayscale and RGB colored Images.
+    imagemagick is required to display the images, if you do not have it
+    install it on Linux with "sudo apt install imagemagick".
+
+    Author: Umar Alkafaween
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
