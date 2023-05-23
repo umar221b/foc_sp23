@@ -4,6 +4,7 @@
     install it on Linux with "sudo apt install imagemagick".
 
     Author: Umar Alkafaween
+    https://github.com/umar221b
 */
 
 #include <stdio.h>
